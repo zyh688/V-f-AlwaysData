@@ -1,9 +1,9 @@
 #!/bin/bash
 #############################################################
 #
-# V2ray for Alwaysdata.com
-# Author: ifeng, <https://t.me/HiaiFeng>
-# Web Site: https://www.hicairo.com
+# V f Alwaysdata.com
+# Author: zyh, <https://t.me/Haige>
+# Web Site: https://www.haige.com
 #
 #############################################################
 
